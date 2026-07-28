@@ -1,4 +1,6 @@
-```text
+<div align="center">
+   
+```
 ███╗   ██╗ ██████╗  ██████╗████████╗██╗███████╗
 ████╗  ██║██╔═══██╗██╔════╝╚══██╔══╝██║██╔════╝
 ██╔██╗ ██║██║   ██║██║        ██║   ██║███████╗
@@ -6,6 +8,7 @@
 ██║ ╚████║╚██████╔╝╚██████╗   ██║   ██║███████║
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝   ╚═╝   ╚═╝╚══════╝
 ```
+</div>
 
 # Noctis 
 Noctis is a powerful, CLI-based network throttling tool. It uses ARP spoofing and Linux Traffic Control (`tc`) to precisely limit the bandwidth of specific devices on your local network.

@@ -5,6 +5,7 @@
 ██║╚██╗██║██║   ██║██║        ██║   ██║╚════██║
 ██║ ╚████║╚██████╔╝╚██████╗   ██║   ██║███████║
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝   ╚═╝   ╚═╝╚══════╝
+```
 
 # Noctis 
 Noctis is a powerful, CLI-based network throttling tool. It uses ARP spoofing and Linux Traffic Control (`tc`) to precisely limit the bandwidth of specific devices on your local network.
@@ -26,22 +27,24 @@ Open your terminal and run the following commands sequentially:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Fathxs/Noctis.git
+   ```
 
 2. Navigate to the folder:
-   '''bash
+   ```bash
    cd Noctis
+   ```
 
 3. make this installer executable and run it:
-   '''bash
+   ```bash
    chmod +x install.sh
    sudo ./install.sh
+   ```
 
 ## Usage
 After the installation is complete, you can launch the application from any terminal by simply typing:
-   '''bash
+   ```bash
    noctis
+   ```
 
-
-
-Disclaimer
+## Disclaimer
 This tool is intended for educational and authorized network administration purposes only. Do not use this on networks you do not own or have explicit permission to manage.
